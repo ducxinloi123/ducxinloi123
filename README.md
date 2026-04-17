@@ -30,7 +30,7 @@ I help businesses transform their ideas into robust technical solutions, ensurin
 
 * **Backend:** PHP 8.x, Laravel Framework, Core PHP (OOP).
 * **Frontend:** Blade, Bootstrap, MDBootstrap, JavaScript (ReactJS basic).
-* **Database:** MySQL, MongoDB, SQLite.
+* **Database:** MySQL.
 * **Tools:** Git, Composer, Laragon, Postman, Docker (Learning).
 
 ---
